@@ -9,7 +9,7 @@ t0= datetime.datetime.now()
 getcontext().prec = 1000
 sys.set_int_max_str_digits(1000000)
 #a=10
-a=100000
+a=10000
 e=0
 
 progress_bar.create_bar()
